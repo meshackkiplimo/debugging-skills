@@ -1,0 +1,18 @@
+body {
+    background: #d2d2d2;
+  }
+  
+  label {
+    display: block;
+    margin-top: 0.5rem;
+  }
+  
+  button {
+    display: block;
+    margin-top: 1rem;
+  }
+  
+  input,
+  button {
+    padding: 0.2rem;
+  
